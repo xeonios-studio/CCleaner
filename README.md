@@ -1,2 +1,2 @@
 # CCleaner
-CCleaner
+CCleaner Client for Windows
